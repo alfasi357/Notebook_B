@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ratio": "cpp",
+        "stdexcept": "cpp",
+        "ostream": "cpp"
+    }
+}
